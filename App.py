@@ -12,7 +12,7 @@ tr.penup()
 
 speed=1
 
-#harketi tanimlama kodlari
+#hareketi tanimlama kodlari
 def up():
     if tr.heading() != 270:
      tr.setheading(90)
